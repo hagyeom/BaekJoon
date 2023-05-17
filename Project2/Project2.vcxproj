@@ -22,7 +22,10 @@
     <ClCompile Include="BaekJoon_10807.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="BaekJoon_10871.cpp" />
+    <ClCompile Include="BaekJoon_10818.cpp" />
+    <ClCompile Include="BaekJoon_10871.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
     <ClCompile Include="BaekJoon_10951.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
